@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-crypto-zombie/static/css/main.4d87a3b4.css",
+    "main.js": "/my-crypto-zombie/static/js/main.685cceb5.js",
+    "static/media/walls.jpg": "/my-crypto-zombie/static/media/walls.f75389c97ded4f7c3884.jpg",
+    "static/media/zombierun.png": "/my-crypto-zombie/static/media/zombierun.fba87b7d42bbdb71e363.png",
+    "static/media/index_bg.png": "/my-crypto-zombie/static/media/index_bg.839ae8ef1843709e87d9.png",
+    "static/media/tester-bg@2x.png": "/my-crypto-zombie/static/media/tester-bg@2x.c5f9d78fd3d579b3c9ea.png",
+    "static/media/Btn_Register_Over.png": "/my-crypto-zombie/static/media/Btn_Register_Over.a863ecdb1d36a720edd7.png",
+    "static/media/Btn_Register_Normal.png": "/my-crypto-zombie/static/media/Btn_Register_Normal.b5cb1cf099d432a8eb80.png",
+    "static/media/homecard@2x.png": "/my-crypto-zombie/static/media/homecard@2x.22da96d6cd14de060475.png",
+    "static/media/start_btn.png": "/my-crypto-zombie/static/media/start_btn.9ef34801919a0b8c3bba.png",
+    "index.html": "/my-crypto-zombie/index.html",
+    "main.4d87a3b4.css.map": "/my-crypto-zombie/static/css/main.4d87a3b4.css.map",
+    "main.685cceb5.js.map": "/my-crypto-zombie/static/js/main.685cceb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d87a3b4.css",
+    "static/js/main.685cceb5.js"
+  ]
+}
